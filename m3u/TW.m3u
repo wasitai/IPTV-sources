@@ -3,6 +3,8 @@
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 group-title="新聞台",台視新聞
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="新聞台",華視新聞
+https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
 #EXTINF:-1 group-title="新聞台" tvg-id="東森新聞",東森新聞
 https://z88.ubtvfans.com/live/rx1/2766/11a206130aa9aeef32670d759dca953d/index.m3u8
 #EXTINF:-1 group-title="新聞台" tvg-id="東森新聞",東森新聞
@@ -10,6 +12,10 @@ https://z88.ubtvfans.com/live/rx5/1025/8849e4836a47ae92c7dbaddbd374badd/index.m3
 #EXTINF:-1 group-title="新聞台",TVBS新聞
 http://61.221.215.25:8800/hls/9/index.m3u8
 
+#EXTINF:-1 group-title="電視台",中視
+https://z88.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
+#EXTINF:-1 group-title="電視台",華視
+https://z88.ubtvfans.com/live/rx1/32/4a8ce7de4c89b0973b2ec986c911be1d/index.m3u8
 #EXTINF:-1 group-title="電視台",東森超視
 https://z88.ubtvfans.com/live/rx1/80/1b79a8a00f6ef2e6e5f73f98084d4d02/index.m3u8
 #EXTINF:-1 group-title="電視台",TVBS
