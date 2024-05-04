@@ -8,33 +8,44 @@ http://61.221.215.25:8800/hls/9/index.m3u8
 
 #EXTINF:-1 group-title="成人台",🌲️松視1台
 http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
-http://18.svi-studio.com/live/176619383282/537544338952/5.m3u8
 #EXTINF:-1 group-title="成人台",🌲️松視2台
 http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
-http://18.svi-studio.com/live/176619383282/537544338952/6.m3u8
 #EXTINF:-1 group-title="成人台",🌲️松視3台
 http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
-http://18.svi-studio.com/live/176619383282/537544338952/20205.m3u8
 #EXTINF:-1 group-title="成人台",🍌️香蕉台
 http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
-http://125.227.210.55:8159/VideoInput/play.ts
-http://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
 #EXTINF:-1 group-title="成人台",♥️潘朵啦玩美Perfect
 http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
-http://18.svi-studio.com/live/176619383282/537544338952/3.m3u8
 #EXTINF:-1 group-title="成人台",♥️驚豔台
 http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
-http://125.227.210.55:8156/VideoInput/play.ts
-http://18.svi-studio.com/live/176619383282/537544338952/01.m3u8
 #EXTINF:-1 group-title="成人台",IBizaHDTV1
 https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
-https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="成人台",IBizaHDTV5
 https://cdn1.ibizastream.biz:441/free/Stream5/playlist.m3u8
-https://5ed5d165c218d.streamlock.net:441/free/Stream5/playlist.m3u8
 #EXTINF:-1 group-title="成人台",🔞奥視2
 http://125.227.210.55:55643/VideoInput/play.ts
 #EXTINF:-1 group-title="成人台",🔞奥視3
 http://125.227.210.55:8917/VideoInput/play.ts
 #EXTINF:-1 group-title="成人台",💖Sex❌Girl
 http://125.227.210.55:62698/VideoInput/play.ts
+
+#EXTINF:-1 group-title="備用台",🌲️松視1台_
+http://18.svi-studio.com/live/176619383282/537544338952/5.m3u8
+#EXTINF:-1 group-title="備用台",🌲️松視2台_
+http://18.svi-studio.com/live/176619383282/537544338952/6.m3u8
+#EXTINF:-1 group-title="備用台",🌲️松視3台_
+http://18.svi-studio.com/live/176619383282/537544338952/20205.m3u8
+#EXTINF:-1 group-title="成人台",🍌️香蕉台_
+http://125.227.210.55:8159/VideoInput/play.ts
+#EXTINF:-1 group-title="成人台",🍌️香蕉台__
+http://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
+#EXTINF:-1 group-title="成人台",♥️潘朵啦玩美Perfect_
+http://18.svi-studio.com/live/176619383282/537544338952/3.m3u8
+#EXTINF:-1 group-title="成人台",♥️驚豔台_
+http://125.227.210.55:8156/VideoInput/play.ts
+#EXTINF:-1 group-title="成人台",♥️驚豔台__
+http://18.svi-studio.com/live/176619383282/537544338952/01.m3u8
+#EXTINF:-1 group-title="成人台",IBizaHDTV1_
+https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
+#EXTINF:-1 group-title="成人台",IBizaHDTV5_
+https://5ed5d165c218d.streamlock.net:441/free/Stream5/playlist.m3u8
