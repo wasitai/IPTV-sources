@@ -1,4 +1,7 @@
 新聞台,#genre#
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+TVBS新聞,http://61.221.215.25:8800/hls/9/index.m3u8
+
+電視台,#genre#
 TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
