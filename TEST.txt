@@ -1,2 +1,0 @@
-TV,#genre#
-台灣,https://raw.githubusercontent.com/wasitai/IPTV-sources/main/m3u/TW.m3u
