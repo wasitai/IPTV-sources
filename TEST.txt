@@ -8,4 +8,5 @@ TVBS新聞,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MA4A22332601223326
 TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 
 知識台,#genre#
-國家地理野生,http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
+國家地理野生,https://z88.ubtvfans.com/live/rx1/1038/55dfbe9cfe3273fdec5554cb3430eee1/index.m3u8
+
