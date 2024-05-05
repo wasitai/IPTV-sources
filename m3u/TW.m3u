@@ -60,6 +60,17 @@ https://z88.ubtvfans.com/live/rx1/2284/79d59ad50a6ff1e27f57853a0e5666aa/index.m3
 https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
 #EXTINF:-1 group-title="電影台" tvg-id="HBO HD",HBO HD
 https://z88.ubtvfans.com/live/rx3/2823/264829c48cc59d03c9174fe85b6e3ff9/index.m3u8
+#EXTINF:-1 group-title="電影台" tvg-id="HBO Signature",HBO Signature
+https://z88.ubtvfans.com/live/rx1/329/4f7c91a6de5f2142dc69dcfb3f377d09/index.m3u8
+#EXTINF:-1 group-title="電影台" tvg-id="HBO Signature",HBO Signature
+https://z88.ubtvfans.com/live/rx3/2824/7c499709e04993dcdb601df47291e152/index.m3u8
+
+#EXTINF:-1 group-title="體育台" tvg-id="緯來體育",緯來體育
+https://z88.ubtvfans.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
+#EXTINF:-1 group-title="體育台" tvg-id="緯來體育",緯來體育
+https://z88.ubtvfans.com/live/rx3/2732/afc9e5d491c22c48ea99acb467665268/index.m3u8
+#EXTINF:-1 group-title="體育台" tvg-id="Sky Sports F1",Sky Sports F1
+https://z88.ubtvfans.com/live/rx3/182/b8a7a83222a29d6f9b17aebea66aac0e/index.m3u8
 
 #EXTINF:-1 group-title="成人台" tvg-id="松視1",🌲️松視1台
 http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
