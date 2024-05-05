@@ -67,6 +67,10 @@ http://18.svi-studio.com/live/176619383282/537544338952/20205.m3u8
 http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
 #EXTINF:-1 group-title="成人台" tvg-id="香蕉台",🍌️香蕉台
 http://125.227.210.55:8159/VideoInput/play.ts
+#EXTINF:-1 group-title="成人台",🔞奥視2
+http://125.227.210.55:55643/VideoInput/play.ts
+#EXTINF:-1 group-title="成人台",🔞奥視3
+http://125.227.210.55:8917/VideoInput/play.ts
 #EXTINF:-1 group-title="成人台" tvg-id="潘朵啦玩美",♥️潘朵啦玩美Perfect
 http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
 #EXTINF:-1 group-title="成人台" tvg-id="潘朵啦玩美",♥️潘朵啦玩美Perfect
@@ -85,10 +89,6 @@ https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
 https://cdn1.ibizastream.biz:441/free/Stream5/playlist.m3u8
 #EXTINF:-1 group-title="成人台" tvg-id="IBizaHDTV5",IBizaHDTV5
 https://5ed5d165c218d.streamlock.net:441/free/Stream5/playlist.m3u8
-#EXTINF:-1 group-title="成人台",🔞奥視2
-http://125.227.210.55:55643/VideoInput/play.ts
-#EXTINF:-1 group-title="成人台",🔞奥視3
-http://125.227.210.55:8917/VideoInput/play.ts
 #EXTINF:-1 group-title="成人台",💖Sex❌Girl
 http://125.227.210.55:62698/VideoInput/play.ts
 
