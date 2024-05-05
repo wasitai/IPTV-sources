@@ -10,9 +10,9 @@ https://z88.ubtvfans.com/live/rx1/2766/11a206130aa9aeef32670d759dca953d/index.m3
 #EXTINF:-1 group-title="新聞台" tvg-id="東森新聞",東森新聞
 https://z88.ubtvfans.com/live/rx5/1025/8849e4836a47ae92c7dbaddbd374badd/index.m3u8
 #EXTINF:-1 group-title="新聞台" tvg-id="三立新聞",三立新聞
-https://z88.ubtvfans.com/live/rx2/43/a2a42f6d385474b87e182c306a9c370d/index.m3u8
-#EXTINF:-1 group-title="新聞台" tvg-id="三立新聞",三立新聞
 https://z88.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
+#EXTINF:-1 group-title="新聞台" tvg-id="三立新聞",三立新聞
+https://z88.ubtvfans.com/live/rx2/43/a2a42f6d385474b87e182c306a9c370d/index.m3u8
 #EXTINF:-1 group-title="新聞台",TVBS新聞
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 group-title="新聞台" tvg-id="壹新聞",壹新聞
