@@ -50,6 +50,16 @@ https://z88.ubtvfans.com/live/rx3/339/85339de3283d33f46d4735db2f4cac1a/index.m3u
 
 #EXTINF:-1 group-title="電影台" tvg-id="東森電影",東森電影
 https://z88.ubtvfans.com/live/rx1/350/44b9d828c69ab77ac370b97682959610/index.m3u8
+#EXTINF:-1 group-title="電影台" tvg-id="東森洋片",東森洋片
+https://z88.ubtvfans.com/live/rx1/1128/fade026d9ed28330bb37ac8ca20caeac/index.m3u8
+#EXTINF:-1 group-title="電影台" tvg-id="好萊塢電影",好萊塢電影
+https://z88.ubtvfans.com/live/rx1/37/994b3b9fcc2b4f3ee856d7d12b5356ca/index.m3u8
+#EXTINF:-1 group-title="電影台" tvg-id="壹電影",壹電影
+https://z88.ubtvfans.com/live/rx1/2284/79d59ad50a6ff1e27f57853a0e5666aa/index.m3u8
+#EXTINF:-1 group-title="電影台" tvg-id="HBO HD",HBO HD
+https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
+#EXTINF:-1 group-title="電影台" tvg-id="HBO HD",HBO HD
+https://z88.ubtvfans.com/live/rx3/2823/264829c48cc59d03c9174fe85b6e3ff9/index.m3u8
 
 #EXTINF:-1 group-title="成人台" tvg-id="松視1",🌲️松視1台
 http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
