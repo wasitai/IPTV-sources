@@ -24,6 +24,10 @@ https://z88.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3
 #EXTINF:-1 group-title="新聞台" tvg-id="非凡新聞",非凡新聞
 https://z88.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 
+#EXTINF:-1 group-title="電視台" tvg-id="台視",台視
+https://z88.ubtvfans.com/live/rx1/326/a673772508adb079ee615a07780a1a66/index.m3u8
+#EXTINF:-1 group-title="電視台" tvg-id="台視",台視
+https://z88.ubtvfans.com/live/rx3/312/df64913fe36fda05394f453b357c8cf8/index.m3u8
 #EXTINF:-1 group-title="電視台",中視
 https://z88.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 #EXTINF:-1 group-title="電視台",華視
