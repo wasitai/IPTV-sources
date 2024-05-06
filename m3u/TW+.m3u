@@ -118,6 +118,18 @@ http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
 http://125.227.210.55:8156/VideoInput/play.ts
 #EXTINF:-1 group-title="成人台" tvg-id="驚豔台",♥️驚豔台
 http://18.svi-studio.com/live/176619383282/537544338952/01.m3u8
+#EXTINF:-1 group-title="成人台" tvg-id="JStar",JStar
+https://z88.ubtvfans.com/live/rx3/2909/bcf2a48c5327078d0602115b3fdee5fe/index.m3u8
+#EXTINF:-1 group-title="成人台" tvg-id="彩虹電影",▼🌈彩虹電影
+https://z88.ubtvfans.com/live/rx3/413/f39876dcbac1ca67fd1c1015cfc2af27/index.m3u8
+#EXTINF:-1 group-title="成人台" tvg-id="彩虹K",🌈彩虹K
+https://z88.ubtvfans.com/live/rx3/2910/93401212fa841510fb427f56dc3e4d5b/index.m3u8
+#EXTINF:-1 group-title="成人台" tvg-id="彩虹K",🌈彩虹K
+https://z88.ubtvfans.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
+#EXTINF:-1 group-title="成人台" tvg-id="彩虹E",🌈彩虹E
+https://z88.ubtvfans.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
+#EXTINF:-1 group-title="成人台" tvg-id="彩虹E",🌈彩虹E
+https://z88.ubtvfans.com/live/rx4/2935/abd12ad135442a70846dc7d5e271e1a7/index.m3u8
 #EXTINF:-1 group-title="成人台" tvg-id="IBizaHDTV1",IBizaHDTV1
 https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="成人台" tvg-id="IBizaHDTV1",IBizaHDTV1
