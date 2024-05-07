@@ -130,12 +130,12 @@ https://z88.ubtvfans.com/live/rx3/413/f39876dcbac1ca67fd1c1015cfc2af27/index.m3u
 https://z88.ubtvfans.com/live/rx4/2934/e36bc489afabbf84ed6ae225b1400ae8/index.m3u8
 #EXTINF:-1 group-title="成人台" tvg-id="彩虹K",🌈彩虹K
 https://z88.ubtvfans.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
-#EXTINF:-1 group-title="成人台" tvg-id="彩虹K",🌈彩虹K
-https://z88.ubtvfans.com/live/rx3/2910/93401212fa841510fb427f56dc3e4d5b/index.m3u8
 #EXTINF:-1 group-title="成人台" tvg-id="彩虹E",🌈彩虹E
 https://z88.ubtvfans.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
 #EXTINF:-1 group-title="成人台" tvg-id="彩虹E",🌈彩虹E
 https://z88.ubtvfans.com/live/rx4/2935/abd12ad135442a70846dc7d5e271e1a7/index.m3u8
+#EXTINF:-1 group-title="成人台" tvg-id="麻豆傳媒",麻豆傳媒
+https://z88.ubtvfans.com/live/rx3/2910/93401212fa841510fb427f56dc3e4d5b/index.m3u8
 #EXTINF:-1 group-title="成人台" tvg-id="IBizaHDTV1",IBizaHDTV1
 https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="成人台" tvg-id="IBizaHDTV1",IBizaHDTV1
@@ -147,5 +147,4 @@ https://5ed5d165c218d.streamlock.net:441/free/Stream5/playlist.m3u8
 #EXTINF:-1 group-title="成人台",💖Sex❌Girl
 http://125.227.210.55:62698/VideoInput/play.ts
 
-#EXTINF:-1 group-title="測試區",125.227.210.55:62698
-http://125.227.210.55:62698
+#EXTINF:-1 group-title="測試區",
