@@ -147,7 +147,5 @@ https://5ed5d165c218d.streamlock.net:441/free/Stream5/playlist.m3u8
 #EXTINF:-1 group-title="成人台",💖Sex❌Girl
 http://125.227.210.55:62698/VideoInput/play.ts
 
-#EXTINF:-1 group-title="測試區",125.227.210.55:8158
-http://125.227.210.55:8158/VideoInput/play.ts
-#EXTINF:-1 group-title="測試區",125.227.210.55:8157
-http://125.227.210.55:8157/VideoInput/play.ts
+#EXTINF:-1 group-title="測試區",125.227.210.55:62698
+http://125.227.210.55:62698
