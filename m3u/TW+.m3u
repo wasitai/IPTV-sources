@@ -3,7 +3,7 @@
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 group-title="新聞台" tvg-id="台視新聞",台視新聞
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 group-title="新聞台" tvg-id="中視新聞",台中視新聞
+#EXTINF:-1 group-title="新聞台" tvg-id="中視新聞",中視新聞
 https://www.youtube.com/watch?v=TCnaIE_SAtM
 #EXTINF:-1 group-title="新聞台" tvg-id="華視新聞",華視新聞
 https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
