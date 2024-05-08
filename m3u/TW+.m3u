@@ -38,6 +38,8 @@ https://z88.ubtvfans.com/live/rx1/32/4a8ce7de4c89b0973b2ec986c911be1d/index.m3u8
 https://www.youtube.com/watch?v=6KlRR_DGhmI
 #EXTINF:-1 group-title="電視台" tvg-id="東森超視",東森超視
 https://z88.ubtvfans.com/live/rx1/80/1b79a8a00f6ef2e6e5f73f98084d4d02/index.m3u8
+#EXTINF:-1 group-title="電視台" tvg-id="東森綜合",東森綜合
+https://epg.pw/stream/d8efe6bedc4a8852aafaf7f5e2c0f72096e12f314da5ce617922dd6802352486.m3u8
 #EXTINF:-1 group-title="電視台" tvg-id="三立",三立
 https://z88.ubtvfans.com/live/rx2/43/a2a42f6d385474b87e182c306a9c370d/index.m3u8
 #EXTINF:-1 group-title="電視台" tvg-id="TVBS",TVBS
@@ -49,6 +51,8 @@ https://z88.ubtvfans.com/live/rx1/382/897ab118ac4987dd9fb8743cdef65216/index.m3u
 https://z88.ubtvfans.com/live/rx1/2825/6a22401f69113d2529c575454321ddc8/index.m3u8
 #EXTINF:-1 group-title="戲劇台" tvg-id="東森戲劇",東森戲劇
 https://z88.ubtvfans.com/live/rx1/321/12c06b14bb78a7a24864a9716e0ace8e/index.m3u8
+#EXTINF:-1 group-title="戲劇台" tvg-id="八大戲劇",八大戲劇
+https://epg.pw/stream/502ec7a7075f723ec1288fb463708460e8fa0d4f7932812fe508aee001ccc04a.m3u8
 #EXTINF:-1 group-title="戲劇台" tvg-id="八大戲劇",八大戲劇
 https://z88.ubtvfans.com/live/rx1/81/724862d1a0b9c0b5154368d271f4789e/index.m3u8
 #EXTINF:-1 group-title="戲劇台" tvg-id="緯來戲劇",緯來戲劇
@@ -147,4 +151,7 @@ https://5ed5d165c218d.streamlock.net:441/free/Stream5/playlist.m3u8
 #EXTINF:-1 group-title="成人台",💖Sex❌Girl
 http://125.227.210.55:62698/VideoInput/play.ts
 
-#EXTINF:-1 group-title="測試區",
+#EXTINF:-1 group-title="測試區",Discovery
+https://epg.pw/stream/c550957389889e7c508d1b7db8edc582a4f270f05f5e5d8bcba2f758b9cf7bb1.m3u8
+#EXTINF:-1 group-title="測試區",Discovery Science
+https://epg.pw/stream/035902f8b3b563e0b5a7cd2ef2ade48b6c805f0d378d4265059b9948e469c036.m3u8
