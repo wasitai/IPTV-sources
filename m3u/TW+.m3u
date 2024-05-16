@@ -169,4 +169,5 @@ http://61.221.215.25:8800/hls/50/index.m3u8
 http://61.221.215.25:8800/hls/55/index.m3u8
 #EXTINF:-1 group-title="測試區",鳳凰資訊
 http://61.221.215.25:8800/hls/47/index.m3u8
-
+#EXTINF:-1 group-title="測試區",公視戲劇
+https://www.4gtv.tv/channel/4gtv-4gtv042?set=1&ch=7
